@@ -1,0 +1,36 @@
+.x-zero-game {
+  background-image: linear-gradient(
+    60deg,
+    pink,
+    rgba(198, 182, 182, 0.598),
+    rgb(45, 45, 210)
+  );
+  width: 350px;
+  padding: 70px 40px;
+  margin: auto;
+}
+.x-zero-div {
+  display: flex;
+}
+.x-zero-game button {
+  margin: 50px;
+  cursor: pointer;
+}
+.x-zero-game h2 {
+  border-radius: 30px;
+  padding: 5px 20px;
+  background-color: floralwhite;
+}
+.x-zero-game span {
+  color: green;
+}
+.squre-div {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  background-color: darkgrey;
+  align-items: center;
+  border: 1px solid;
+  font-size: 26px;
+}
