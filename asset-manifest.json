@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/X-zero-game/static/css/main.89df40d7.css",
-    "main.js": "/X-zero-game/static/js/main.13c5a224.js",
-    "static/js/787.ea8da8d8.chunk.js": "/X-zero-game/static/js/787.ea8da8d8.chunk.js",
-    "index.html": "/X-zero-game/index.html",
-    "main.89df40d7.css.map": "/X-zero-game/static/css/main.89df40d7.css.map",
-    "main.13c5a224.js.map": "/X-zero-game/static/js/main.13c5a224.js.map",
-    "787.ea8da8d8.chunk.js.map": "/X-zero-game/static/js/787.ea8da8d8.chunk.js.map"
+    "main.css": "/Multiple_App_by_redux-saga/static/css/main.89df40d7.css",
+    "main.js": "/Multiple_App_by_redux-saga/static/js/main.2099cfcd.js",
+    "static/js/787.ea8da8d8.chunk.js": "/Multiple_App_by_redux-saga/static/js/787.ea8da8d8.chunk.js",
+    "index.html": "/Multiple_App_by_redux-saga/index.html",
+    "main.89df40d7.css.map": "/Multiple_App_by_redux-saga/static/css/main.89df40d7.css.map",
+    "main.2099cfcd.js.map": "/Multiple_App_by_redux-saga/static/js/main.2099cfcd.js.map",
+    "787.ea8da8d8.chunk.js.map": "/Multiple_App_by_redux-saga/static/js/787.ea8da8d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89df40d7.css",
-    "static/js/main.13c5a224.js"
+    "static/js/main.2099cfcd.js"
   ]
 }
